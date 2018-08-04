@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = game_portal:main
+      [console_scripts]
+      initialize_game_portal_db = game_portal.scripts.initializedb:main
+      

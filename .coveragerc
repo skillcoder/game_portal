@@ -1,0 +1,3 @@
+[run]
+source = game_portal
+omit = game_portal/test*
